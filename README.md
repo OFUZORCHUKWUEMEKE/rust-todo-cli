@@ -8,4 +8,4 @@ A beginner project to boost your Rust skills. You will learn various concepts of
 4. Structs 
 5. Functions
 6. Implementations 
-7. Match
+7. Pattern-Match
